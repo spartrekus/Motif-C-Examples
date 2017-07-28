@@ -1,5 +1,5 @@
-# motif-on-linux-example-files
-motif on linux - tutorials with example (*.c) files
+# Motif-on-linux-example-files for Unix-like Systems
+Motif on linux - tutorials with example (*.c) files
 
 ![alt tag](https://raw.githubusercontent.com/spartrekus/motif-on-linux-example-files/master/mxascii.jpg)
 
